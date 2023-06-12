@@ -2,9 +2,9 @@
 /** page structure **/
 ============================================================
  /* Posicion Wiget Chatear TIDIO*/  
-        #tidio-chat-iframe { bottom: 100px !important; }
+        #tidio-chat-iframe { bottom: 70px !important; }
         @media only screen and (max-width: 980px) {
-        #tidio-chat-iframe { bottom: 100px !important;}
+        #tidio-chat-iframe { bottom: 70px !important;}
          }
 =============================================================
 #content_menu{
